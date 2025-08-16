@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const simulationContent = document.getElementById('simulation-content');
     const promptText = document.getElementById('prompt-text');
     
-    // Function to handle search submission
+    //Function to handle search submission
     function handleSearch() {
         const prompt = searchInput.value.trim();
         
